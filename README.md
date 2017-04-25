@@ -1,1 +1,1 @@
-# de_x
+This is a repository dedicated to our map, to update the repository, send me the vmf file, and I will update it.(This is only intended for somewhat finalized versions of the map, smaller changes can be sent over Discord.
